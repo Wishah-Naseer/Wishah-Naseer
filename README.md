@@ -1,30 +1,68 @@
-### Hi there 👋
-# Meet Wishah Naseer
-I, Wishah Naseer, graduated as a Computer Systems Engineer from NED University with 3.655 CGPA and second position (silver medalist) in my batch.
-- I’m currently working at Leverify as Business Automation Executive. My work in this company is all based on Python and automations using Python.
-- I also work as a Junior SCADA Engineer at QANARE Engineering. Here my work is related industrial automation using ignition.
-- I have worked as a Research Intern at MERL - UIT. Where I was a part of the Hardware Design team. Got hands on experience on System verilog, Python and Linux commands.
-- I have great hands-on experience and knowledge on web development and Graphics Designing. Since, I have worked as a Freelancer and completed many projects of web development (frontend) and graphics designing. Through this i had a great experience on HTML5 and CSS3.
-- I’m currently learning Data Analysis and Automations using Python.
-- I’m looking to collaborate on projects that are related to programming domain. I know a number of programming languages in which i can code but one of my favorites and one of the languages in which i am an expert at, is PYTHON.
+# 👋 Hi there, I'm Wishah Naseer Ahmad
 
-Seeking for more knowledge ahead to survive in my practical life and to work with full dedication, sincerity, and loyalty.
+**AI & Automation Engineer | Python Developer | Cloud Specialist | SCADA Systems Engineer**
 
-## How to reach me:
-- Linkedin: https://www.linkedin.com/in/wishahnaseer/ 
-- GitHub: https://github.com/Wishah-Naseer
-- FaceBook: https://www.facebook.com/wishah31naseer/
+I'm a Computer Engineer passionate about creating smart, scalable, and automated software systems. With deep hands-on experience across cloud platforms (AWS, Azure, GCP), SCADA infrastructure, and AI-powered automation, I specialize in building end-to-end solutions that boost productivity and operational efficiency.
 
-<!--
-**Wishah-Naseer/Wishah-Naseer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 What I Do
 
-Here are some ideas to get you started:
+- 🧠 Develop intelligent software using **LLMs, NLP, and Deep Learning**
+- 🔁 Automate business workflows with **Python, FastAPI, and ETL pipelines**
+- ☁️ Design and deploy infrastructure on **AWS, GCP, and Azure**
+- ⚡ Architect real-time industrial systems with **SCADA (Ignition) and MQTT**
+- 🛠 Maintain high-quality code with **CI/CD, IaC, and robust testing**
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+## 🧰 Tech Stack
+
+**Languages & Frameworks:**  
+`Python` `FastAPI` `Flask` `JavaScript` `TypeScript` `C++` `SQL` `MongoDB` `Node.js` `React` `Next.js` `HTML` `CSS` `Bootstrap` `ElizaOS`
+
+**Automation & AI:**  
+`AWS Bedrock` `LLMs` `NLP` `YOLOv5` `ETL Pipelines` `Deep Learning` `AI/ML` `n8n` `make.com` `bubble.io` `Zapier` `Retool`
+
+**Cloud & DevOps:**  
+`AWS` `Azure` `GCP` `CI/CD` `Docker` `IaC` `GitHub Actions`
+
+**SCADA & IoT:**  
+`Ignition SCADA` `MQTT` `OPC UA` `Real-time Monitoring`
+
+---
+
+## 🛠 Projects
+
+Here are a few highlights from my work and side projects:
+
+- 🔍 **Automated Web Search with Eliza Framework** – Smart querying and parsing using LLMs.
+- 📦 **Cold Drink Inventory Detection** – YOLOv5-based image recognition system.
+- 💼 **Lead Management & Invoicing System** – Python backend integrated with QuickBooks and CallRail.
+- ⚖️ **Legal CRM with OCR** – Automated case tracking with document scraping and NLP.
+- 📅 **Event Aggregator for Boston** – Deployed scraper on AWS EC2 for 15+ sites.
+- 🤖 **Solana Trading Bot** – AI-powered bot integrated with Twitter signals and market analysis.
+
+Check out more on my GitHub repositories!
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 M.Sc. Computer and Systems Engineering, TU Ilmenau, Germany  
+- 🎓 B.E. Electrical Engineering (Computer Systems), NEDUET, Pakistan  
+- 🏆 Google IT Automation with Python  
+- 🏆 HiveMQ MQTT Associate & Professional  
+- 🏆 Python3 Programming (University of Michigan)  
+- 🏆 Ignition 8.1 Certified – Core & Gold
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/wishahnaseer/)  
+- 🛠 [GitHub](https://github.com/Wishah-Naseer)  
+- ✉️ Email: ahmadwishahnaseer@gmail.com  
+- 📍 Berlin, Germany
+
+---
+
+_“Code is poetry – I engineer logic that empowers people and automates complexity.”_
